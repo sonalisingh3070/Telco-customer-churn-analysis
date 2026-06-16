@@ -29,13 +29,13 @@ The analysis is based on the IBM Telco Customer Churn dataset, which contains cu
 Interactive slicers for:
 - Contact Type
 - Gender
-- Internet Services
+- Internet Services.
 KPI cards for business metrics:
 - Total customers
 - Churned Customers
 - Churn Rate(%)
 - Average Monthly Charges
-- Average Tenure
+- Average Tenure.
 Visual analysis by :
 - Contract Type
 - Internet Service
@@ -44,7 +44,7 @@ Visual analysis by :
 - Monthly Charges Band
 - Multiple Lines
 - Online Security and Backup
-- Tenure Group
+- Tenure Group.
 ## Key Metrics
 - Total Customers : 7032
 - Churned Customers : 1869
