@@ -1,4 +1,4 @@
-# Telco-customer-churn-analysis
+# Telco-Customer-Churn-Analysis
 End-to-End customer churn analysis using SQL and Power BI with interactive dashboards and business insights.
 ## Project Overview
 Customer churn is a major challenge for telecom companies as retaining existing customers is often more cost-effective than acquiring new ones.This project analyzes customer churn in a telecom company using SQL for data exploration and Power BI for interactive visualization.The goal is to identify the factors influencing customer churn and providing actionable insights to improve customer retention.
