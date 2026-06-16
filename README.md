@@ -2,7 +2,7 @@
 End-to-End customer churn analysis using SQL and Power BI with interactive dashboards and business insights.
 ## Project Overview
 Customer churn is a major challenge for telecom companies as retaining existing customers is often more cost-effective than acquiring new ones.This project analyzes customer churn in a telecom company using SQL for data exploration and Power BI for interactive visualization.The goal is to identify the factors influencing customer churn and providing actionable insights to improve customer retention.
-Tools Used
+## Tools Used
 - Excel
 - SQL
 - Power BI
@@ -26,17 +26,17 @@ The analysis is based on the IBM Telco Customer Churn dataset, which contains cu
 - Multiple lines analysis
 - Online security amd backup analysi
 ## Power BI Dashboard Features:
-Interactive slicers for:
+### Interactive slicers for:
 - Contact Type
 - Gender
 - Internet Services.
-KPI cards for business metrics:
+### KPI cards for business metrics:
 - Total customers
 - Churned Customers
 - Churn Rate(%)
 - Average Monthly Charges
 - Average Tenure.
-Visual analysis by :
+### Visual analysis by :
 - Contract Type
 - Internet Service
 - Payment method
